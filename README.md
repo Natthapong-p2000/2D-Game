@@ -1,3 +1,4 @@
 # 2D-Gamev.0.8
 
-## 101
+## Full JavaScript
+### - update v.0.8 + oop
