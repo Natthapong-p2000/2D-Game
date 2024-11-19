@@ -1,4 +1,4 @@
 # 2D-Gamev.0.8
-- **[DEMO](https://twod-game.onrender.com)**
 ## Full JavaScript
+- **[DEMO](https://twod-game.onrender.com)**
 ### - update v.0.8 + oop
